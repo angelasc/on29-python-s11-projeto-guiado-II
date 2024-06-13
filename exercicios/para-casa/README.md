@@ -13,7 +13,6 @@ Explicação do exercício:
 
 Arquivos que devem ser submetidos:
 
-- requirements.txt
 - arquivo.csv (ou similar: json, exe, etc) utilizado
 - código de criação e edição do banco de dados (.py ou .ipynb)
 - arquivo .db com entradas de interesse
