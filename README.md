@@ -2,9 +2,36 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Tema da Aula
+# Reprograma | Bootcamp de Análise de Dados
+## 🚀 Exercícios para Casa 
+Turma Online on29 | Semana 11 | 2024 | Professora Stefany Gracy
 
-Turma Online 29 | Python | Semana 11 | 2024 | Professora Stefany Gracy
+Este repositório contém os exercícios desenvolvidos durante a **Semana 08** do curso de Análise de Dados da turma Online On29 da Reprograma. Os desafios foram realizados para consolidar os conhecimentos adquiridos em aula.  
+
+## 📌 Descrição
+Neste projeto, realizamos uma análise completa de um conjunto de dados, passando por várias etapas de processamento e visualização. O objetivo foi colocar em prática técnicas de limpeza de dados, análise exploratória, criação de gráficos e relatórios utilizando bibliotecas como Pandas, Matplotlib e Seaborn.
+
+## 🎯 Objetivos do projeto
+- Realizar a limpeza e preparação de dados para análise.
+- Aplicar técnicas de análise exploratória de dados (EDA).
+- Criar visualizações informativas e atraentes com Matplotlib e Seaborn.
+- Gerar relatórios que sintetizem os insights encontrados durante a análise.
+
+## 📝 Conteúdo do Repositório  
+O repositório está organizado da seguinte maneira:
+- main.py: Código principal onde a análise de dados, limpeza e visualização são realizadas.
+- data.csv: Arquivo de dados utilizado para a análise (caso existam dados específicos).
+- requirements.txt: Arquivo contendo as dependências necessárias para rodar o projeto.
+
+## 🖥️ Tecnologias utilizadas
+- Python: Linguagem de programação utilizada para análise de dados.
+- Pandas: Biblioteca para manipulação de dados, incluindo funções para limpeza e análise exploratória.
+- Matplotlib: Biblioteca para criação de gráficos e visualizações.
+- Seaborn: Biblioteca para visualizações estatísticas baseadas em Matplotlib.
+
+
+---
+
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
